@@ -7,7 +7,6 @@
 .sideBar{
     display: flex;
     background-color: #FE1A19;
-    width: 1440px;
     height: 60px;
 }
 
@@ -28,19 +27,16 @@ h1{
     display: flex;
     justify-content: space-around;
     height: 964px;
-    width: 1440px;
 }
 
 .clmn{
     margin-top: 90px;
     margin-bottom: 112px;
     width: 400px;
-    height: 800px;
-    display: flex;
-    background-image: url("1.png");
+    border: 5px solid yellow;
+    border-radius: 25px;
     background-size: cover;
     justify-content: space-around;
-    flex-direction: column;
 }
 
 .dishes{
